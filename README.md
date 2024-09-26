@@ -22,11 +22,13 @@ AtliQ database as seen below consist of five tables dim_date, dim_hotels, dim_ro
 - Build Executive View, Finance View, Revenue View, Occupancy and Booking View and Key Metrics View.
 - Designing an effective Dashboard which includes page navigation with buttons, tooltips, using KPI’s, conditional formatting of the values in visuals.
 - Deploying the solution using Power BI Service.
+- Dashboard Link - https://noidainstituteofengtech-my.sharepoint.com/:u:/g/personal/0221cseh078_niet_co_in/ESXv-Q03V5hAiKVjnMjV89kBMbaGXTImNncdZbM6L3pmKg?e=6MiwSD
 
 ## Summary
 Atliq Grands, a luxury hotel in Delhi, despite its good ratings, is underperforming in revenue generation. A strategic plan is needed to boost bookings and reduce cancellations. The following section will explore additional contributing factors and highlight key opportunities areas for imporvement.
 
 Below is the overview page from the power BI dashboard and more examples are included through out the report.
+
 ![Screenshot (27)](https://github.com/user-attachments/assets/30a18706-4a66-41d2-84c6-66b1b9b53d8f)
 
 ### Key Matrices
